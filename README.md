@@ -12,7 +12,9 @@
 
 官网：[Algorand Official Website](https://www.algorand.com/)
 
-![](/home/confucian/Winter-Camp/Describe/IMG/Reach.png)
+![](IMG/Reach.png)
+
+
 
 
 
